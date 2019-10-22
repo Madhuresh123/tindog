@@ -1,2 +1,1 @@
-# tindog
-Dog finding blog
+TinDog Starting Files
